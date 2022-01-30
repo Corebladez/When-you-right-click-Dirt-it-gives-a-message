@@ -1,0 +1,5 @@
+name: StickHello
+version: 1.0
+author: core
+main: me.core.stickehello.Main.java
+Description: sends message when holding dirt
